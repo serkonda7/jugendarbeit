@@ -1,7 +1,5 @@
-<!--
-SPDX-FileCopyrightText: 2023-present Lukas Neubert <lukas.neubert@proton.me>
-SPDX-License-Identifier: CC-BY-SA-4.0
--->
+> SPDX-FileCopyrightText: 2023-present Lukas Neubert <lukas.neubert@proton.me><br>
+> SPDX-License-Identifier: CC-BY-SA-4.0
 
 # Kamelrennen
 Ergänzend zu folgender Spielidee: https://www.praxis-jugendarbeit.de/spielesammlung/spiele-gruppenstunde-kamelrennen.html
