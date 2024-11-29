@@ -1,15 +1,26 @@
 # Jugendarbeit
-Dieses Repository enthält eine Sammlung von Material für die Jugenarbeit.
+Sammlung von Spielen und anderem Material für die Jugenarbeit.
+
 
 ## Kontakt
-- Fragen und Anregungen: [GitHub Issues][gh-issues]
-- Ergänzungen: gerne einen Pull Request erstellen
-- Oder per Mail: lukas.neubert@proton.me
+Fragen, Anregungen und Ergänzungen können gerne hier als [Issue][gh-issues] oder Pull Request vorgebracht werden.
+
+Ansonsten freue ich mich auch über Mails an lukas.neubert@proton.me.
+
 
 ## Copyright und Lizenz
-Soweit nicht anders angegben, unterliegen die hier veröffentlichten Inhalte der [Creative Commons Attribution-ShareAlike 4.0 Lizenz (CC-BY-SA-4.0)](./LICENSE.txt).
+Soweit nicht anders angegeben, unterliegt diese Sammlung der [Creative Commons Attribution-ShareAlike 4.0 (CC-BY-SA-4.0)](./LICENSE.txt) Lizenz.
 
-Für Nicht-Anwälte: [kurze Zusammenfassung][cc-summary].
+Grobe Zusammenfassung der wichtigesten Lizenzinhalte:
+- Unter den **Bedingungen**
+  - Lizenz- und Urheberrechtshinweis
+  - Beibehaltung der Lizenz
+- ist **Erlaubt**
+  - Private und kommerzielle Nutzung
+  - Veränderung und Verbreitung
+- jedoch **Ohne**
+  - Haftund und Garantie
+
 
 <!-- links -->
 [gh-issues]: https://github.com/serkonda7/jugendarbeit/issues
