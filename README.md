@@ -24,4 +24,3 @@ Grobe Zusammenfassung der wichtigesten Lizenzinhalte:
 
 <!-- links -->
 [gh-issues]: https://github.com/serkonda7/jugendarbeit/issues
-[cc-summary]: https://choosealicense.com/licenses/cc-by-sa-4.0
